@@ -1,2 +1,2 @@
 # RMIClinicServers
-used Java RMI to mimic  client computers invoking methods on server
+used Java REST web services to mimic  client computers invoking methods on server
